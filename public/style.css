@@ -85,7 +85,7 @@ code {
     overflow: auto;
     overflow-x: hidden;
     overflow-y: hidden;
-    max-width:800px;
+    max-width: 90%;
     margin-left: auto;
     margin-right: auto;
     /* border-right: 0.1px solid gray; */
@@ -305,7 +305,7 @@ code {
     padding-top: 3px;
     margin-bottom: 10px;
     padding-right: 40px;
-    max-width: 720px;
+    /*max-width: 720px;*/
     word-wrap: break-word;
     animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
     
